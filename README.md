@@ -26,14 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omnavneet&show_icons=true&theme=tokyonight" alt="Navneet's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnavneet&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
